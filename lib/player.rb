@@ -29,4 +29,5 @@ class Player
     @nickname = n_name
   end
 
+
 end
